@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\82fd61c5c88c2e9c8ed84850e3aa1ab7d0257638\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_43b2512445cc2bf08b135d116890014e9356f0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\dd8f1715350f49efbad897ee98e62349c6df167d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6240dd60a0d3b4b56f301151273d7e59d2d26646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\1f4779b40cb1570fb823032540e633ad4a9380ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_55fee12cda7b00ea31f39aec303dcbc7475af1a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\9da97984f46d4e0154e7e845469a472059a822e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_5001b992843d3defe50cab6f8015da2e09a1a739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\okio-1.14.0_9f2879e7df5cc21ba55b0ae68950819b26964573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_5189a48a0d6adc88c9722fa0632e5cdec05f6f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\40342e72306587219f9a36e4ce5f8d8f9850c5d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_de010538a2df23f560d1504f23ddf118b32b4046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\fb3b8b8a4cdd6918c220a512f5dc4f8cad2653c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_8b3cf60531144948b25da2a40ac5c5e2b558597d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\25b6f09cc9517d9fca5e044c61312a6ee8509b16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_d5b52dd43e9afaff6b319881f7dfd1ac5d5bfe92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\653b827801f0dbe06d6252ecb44e3017ea4cfd15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_050dd8eb8e245cec6c4db3ce2c36f71f54110577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\1077d4498329a7a1e6a811dabdc2898e6bc7be59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_8da56a2fdc517c02a72a2bb045d9ef9429599111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\de9c3f3f3e0b48a0f49e09ec917a1058eb7e388d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_c1e105f20784283c21f33c7838e886edabb0f7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\b223d1d8a213894c15fdb74f407d1ca5dd89b1fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_efdc38ae83aec68e312b13e0f4381a2c95dafba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\c954d17c15f156d03ffeceb159a0aaed54966364\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_2bd2a7102b9f46e53c54e52fd97b276fc78ae64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_e214d8bee4f26fa582232019cdb833d38afb8ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\Desktop\curso-react-native1\tasks\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_35814020e2bff12d75da5e60817c2d69dd8884f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_9a84e9960b41258dd3d7f869f1a384dc225aafbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\e855f5853bb76d51ed37a4e2bb0dcc35e097f26c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_96e609b3f94c783ca2d5b7caf1d6124b54e11b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\6cd8862254a5433f934a30400fef37ecd1d1757d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_778778c18077ab01fb44bb28d3a08cb85497748a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\467db64679c37fad73eaf6e3ecadc1df51d92b69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_e0eff79818e33f9dba7ed8fbc5319cb5b5b41633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_913ef797a5e9faef84c06502339e938ebe613d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.10.0\ec614c05825ddd2267677a99f585d3913474b125\okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.10.0_8c4a8ffa7dd0f64ede9541593c394e8bf1d79a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_b74986f8e83265bdb976e3fcf9f9e9537041a398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\659913cd46b10049dc4b4eed3d026e5cce1f651f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_b6c79233dfec07e2fca0f5fe7f82b7bf49360e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\92c28841589cca0d7ce8266bfe35627c1ad65a1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_b9c011f94f2d0ff19d72d26c16f6446a50b9f615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\f35debb980cb3e7863a977ddb6fdc07c6af54fd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_be6510f5ab91c17dcd8a0cd870da9caedc41c34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\okhttp-3.10.0_75b6fa33f72864db956ebeb78e32b698c6190d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\dd8f1715350f49efbad897ee98e62349c6df167d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_6ab1b6f2535f492a7bd9a62cb9bb02032b61b138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.android\build-cache\0148b70bd9872d245fb8c6f9496b3f5cb85a552e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\classes_83f44eff1e4317de330b5972aa31036c8596401e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_2d7a4509c17c8908d8b7e1683c20f0e28c7fc567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jessica\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Jessica\Desktop\curso-react-native1\tasks\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_e40d8fde3034712adf5c1e9074ab0297247b9aa9.jar" />
+    </item>
+
+</items>
